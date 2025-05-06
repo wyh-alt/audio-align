@@ -1,0 +1,8 @@
+# 音频处理库
+librosa>=0.10.1
+numpy>=1.26.0
+scipy>=1.11.3
+soundfile>=0.12.1
+
+# GUI库
+PyQt5>=5.15.9
